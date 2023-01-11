@@ -5,3 +5,4 @@ In it I Gather, Assess, Clean, Analyse and Visualize data from @weRateDogs Twitt
 ![Data Wrangling Process](Data_analysis_process.png)
 
 ![Favorite Dog Stages](figure3.png)
+![Wordcloud of Common Dog Names](figure9.png)
